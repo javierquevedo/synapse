@@ -164,6 +164,7 @@ Also, Martin Giess has created an auto-deployment process with vagrant/ansible,
 tested with VirtualBox/AWS/DigitalOcean - see https://github.com/EMnify/matrix-synapse-auto-deploy
 for details.
 
+
 Configuring synapse
 -------------------
 
